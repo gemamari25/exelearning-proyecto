@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mouet3xndqy59"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mouet3xndqy59">
+    <organization identifier="eXe-mouet3xndqy59" structure="hierarchical">
+      <title>Proyecto VOCES QUE CUENTAN</title>
+      <item identifier="ITEM-page-moue5mw3-e7caml6gm" identifierref="RES-page-moue5mw3-e7caml6gm" isvisible="true">
+        <title>Comenzamos: Presentación</title>
+      </item>
+      <item identifier="ITEM-page-moue5mw5-4l4hcscza" identifierref="RES-page-moue5mw5-4l4hcscza" isvisible="true">
+        <title>sesión 1: Licencias y seguridad</title>
+      </item>
+      <item identifier="ITEM-page-moue5mw6-c9dob3bg0" identifierref="RES-page-moue5mw6-c9dob3bg0" isvisible="true">
+        <title>Curación de contenido</title>
+      </item>
+      <item identifier="ITEM-page-moue5mw8-1179fwth1" identifierref="RES-page-moue5mw8-1179fwth1" isvisible="true">
+        <title>ACTIVIDADES</title>
+        <item identifier="ITEM-page-moue5mwb-hvgce3q5e" identifierref="RES-page-moue5mwb-hvgce3q5e" isvisible="true">
+          <title>Tarea 1</title>
+        </item>
+        <item identifier="ITEM-page-moue5mwd-qiia6fro9" identifierref="RES-page-moue5mwd-qiia6fro9" isvisible="true">
+          <title>Tarea 2</title>
+        </item>
+        <item identifier="ITEM-page-moue5mwe-6umrts728" identifierref="RES-page-moue5mwe-6umrts728" isvisible="true">
+          <title>Tarea 3</title>
+        </item>
+        <item identifier="ITEM-page-moue5mwe-rrekx65ha" identifierref="RES-page-moue5mwe-rrekx65ha" isvisible="true">
+          <title>Tarea 4</title>
+        </item>
+        <item identifier="ITEM-page-moue5mwf-hqo29ye42" identifierref="RES-page-moue5mwf-hqo29ye42" isvisible="true">
+          <title>Tarea 5</title>
+        </item>
+        <item identifier="ITEM-page-moue5mwh-qljpvllzc" identifierref="RES-page-moue5mwh-qljpvllzc" isvisible="true">
+          <title>Tarea 6</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-moue5mwi-ka6hu6rkk" identifierref="RES-page-moue5mwi-ka6hu6rkk" isvisible="true">
+        <title>Línea del tiempo</title>
+      </item>
+      <item identifier="ITEM-page-1778092252322-cgq16t8j0" identifierref="RES-page-1778092252322-cgq16t8j0" isvisible="true">
+        <title>Evaluación</title>
+      </item>
+      <item identifier="ITEM-page-1778092548770-5xav9nf19" identifierref="RES-page-1778092548770-5xav9nf19" isvisible="true">
+        <title>Guía didáctica</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-moue5mw3-e7caml6gm" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mw5-4l4hcscza" type="webcontent" adlcp:scormtype="sco" href="html/sesion-1-licencias-y-seguridad.html">
+      <file href="html/sesion-1-licencias-y-seguridad.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mw6-c9dob3bg0" type="webcontent" adlcp:scormtype="sco" href="html/curacion-de-contenido.html">
+      <file href="html/curacion-de-contenido.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mw8-1179fwth1" type="webcontent" adlcp:scormtype="sco" href="html/actividades.html">
+      <file href="html/actividades.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mwb-hvgce3q5e" type="webcontent" adlcp:scormtype="sco" href="html/tarea-1.html">
+      <file href="html/tarea-1.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mwd-qiia6fro9" type="webcontent" adlcp:scormtype="sco" href="html/tarea-2.html">
+      <file href="html/tarea-2.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mwe-6umrts728" type="webcontent" adlcp:scormtype="sco" href="html/tarea-3.html">
+      <file href="html/tarea-3.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mwe-rrekx65ha" type="webcontent" adlcp:scormtype="sco" href="html/tarea-4.html">
+      <file href="html/tarea-4.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mwf-hqo29ye42" type="webcontent" adlcp:scormtype="sco" href="html/tarea-5.html">
+      <file href="html/tarea-5.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mwh-qljpvllzc" type="webcontent" adlcp:scormtype="sco" href="html/tarea-6.html">
+      <file href="html/tarea-6.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moue5mwi-ka6hu6rkk" type="webcontent" adlcp:scormtype="sco" href="html/linea-del-tiempo.html">
+      <file href="html/linea-del-tiempo.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1778092252322-cgq16t8j0" type="webcontent" adlcp:scormtype="sco" href="html/evaluacion.html">
+      <file href="html/evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1778092548770-5xav9nf19" type="webcontent" adlcp:scormtype="sco" href="html/guia-didactica.html">
+      <file href="html/guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/0015bd25-9814-88a7-6967-d849a689824c.pdf"/>
+      <file href="content/resources/1e19fed6-87eb-3076-7700-0ec91ce20d52.pdf"/>
+      <file href="content/resources/2.3.pdf"/>
+      <file href="content/resources/393f20c5-2db6-70e2-a704-b565d6fc8350.pdf"/>
+      <file href="content/resources/418227cf-ce60-2ffc-883f-21cbb57a4957.pdf"/>
+      <file href="content/resources/4213b092-760d-cb77-4e17-7a7347a79d69.pdf"/>
+      <file href="content/resources/659ba78e-fcb4-68fe-f8b8-6caab2878b5b.pdf"/>
+      <file href="content/resources/791f5a83-af37-03d7-9611-95ba0df6e372.pdf"/>
+      <file href="content/resources/7effbd69-9433-217f-c60d-0c648fc2d28a.pdf"/>
+      <file href="content/resources/86a4712a-c12d-6564-3ba5-7eda3d26b782.pdf"/>
+      <file href="content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación - Documentos de Google.pdf"/>
+      <file href="content/resources/Detectives de textos.pdf"/>
+      <file href="content/resources/Diana de evaluación.pdf"/>
+      <file href="content/resources/Fabrica de cuentos.pdf"/>
+      <file href="content/resources/Recopilación de nuestros cuentos.pdf"/>
+      <file href="content/resources/Rúbrica de evaluación exposición.pdf"/>
+      <file href="content/resources/Rúbrica de evaluación.pdf"/>
+      <file href="content/resources/Tarea 2.1.pdf"/>
+      <file href="content/resources/aed47b64-8610-7ca1-dbb7-23f8be581c05.pdf"/>
+      <file href="content/resources/f1e3a827-4883-3bc2-756e-6a72ee2957cb.pdf"/>
+      <file href="content/resources/línea del tiempo.pdf"/>
+      <file href="content/resources/tarea identifica diferentes textos.pdf"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
